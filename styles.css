@@ -1,0 +1,67 @@
+*{
+    margin:0px;
+    padding:0px;
+}
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-repeat: no-repeat;
+    background-size: 85rem;
+    background-image: url('https://akm-img-a-in.tosshub.com/businesstoday/images/story/202311/82-83-merged-2-1-sixteen_nine.jpg?size=1000:563');
+    
+}
+.container_img{
+    border-radius: 50%;
+    border: 2px solid rgb(0, 0, 0);
+    width: 150px;
+    height: 150px;
+    position: relative;
+    top: 12px;
+    left: 100px;
+    
+    
+}
+
+h1{
+    color: rgb(197, 3, 3);
+    display: flex;
+    justify-content: center;
+    font-style: oblique;
+
+}
+.container_block{
+    background: url('https://i.pinimg.com/736x/cf/5c/c9/cf5cc930a53c436649e9375f813151ab.jpg') ;
+    background-repeat: no-repeat;
+    background-size: 25rem;
+    border-radius: 10px;
+    width: 360px;
+    height: 400px;
+    padding: 10px;
+    box-shadow: rgb(31, 26, 26) 1px 2px 4px 5px;
+    position: absolute;
+    top: 8rem;
+    left: 8rem;
+    
+    
+}
+.container_content{
+    color: aliceblue;
+    font-size: 20px;
+    font-family:'Gill Sans', 'Gill Sans MT','Trebuchet MS', sans-serif;
+    line-height: 30px;
+    font-style: italic;
+    padding: 20px;
+    text-align: justify;
+    position: relative;
+    top: 5px;
+    
+}
+.container_name{
+    color: rgb(197, 149, 17);
+    position: relative;
+    top: 16px;
+    left: 113px;
+    font-size: 26px;
+    font-weight:bolder;
+}
